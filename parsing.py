@@ -2,7 +2,7 @@ import requests
 import json
 
 
-API_ID = '472d516006c24ec793199e894bda8e85'
+API_ID = ''
 
 def exchange_currency():
     response = requests.get(f'https://openexchangerates.org/api/latest.json?app_id={API_ID}')

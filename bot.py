@@ -5,7 +5,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from text import text_start
 
 
-TOKEN = '5964508466:AAFxTaOo61l-M6J0TUuDX9SxSCXcKdpMqA0'
+TOKEN = ''
 
 keyboard = InlineKeyboardMarkup()
 # inline_1 = InlineKeyboardButton(text='Регистрация',callback_data='registration')
